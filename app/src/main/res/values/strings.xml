@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DrChioma-sQuizApp</string>
+    <string name="variable_name_can_t_have_spaces">Variable name can\'t have spaces</string>
+    <string name="FALSE">FALSE</string>
+    <string name="TRUE">TRUE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="scoreword">SCORE</string>
+    <string name="scorenumber">0</string>
 </resources>
